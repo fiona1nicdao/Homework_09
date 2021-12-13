@@ -20,7 +20,7 @@ WHEN prompted for information about my application repository
 THEN a professional README.md is generated with a title for the users project, description, table of contents, installation section, usage section, contribute section, tests section, license section, and questions section
 ```
 ## Links 
-### Link to [Walkthrough video]()
+### Link to [Walkthrough video](https://watch.screencastify.com/v/1aeptql6HzJm2TMUsYfn)
 ### Link to [GitHub Respository](https://github.com/fiona1nicdao/Homework_09)
 
 ## Preview
