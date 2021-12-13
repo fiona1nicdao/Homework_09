@@ -19,4 +19,9 @@ WHEN prompted for information about my application repository
 THEN a professional README.md is generated with a title for the users project, description, table of contents, installation section, usage section, contribute section, tests section, license section, and questions section
 ```
 ## Preview
+[Walkthrough video]()
+![screenshot-commandline]()
+![screenshot-readme]()
+[GitHub Respository]()
+
 
