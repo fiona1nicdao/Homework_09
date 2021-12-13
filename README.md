@@ -5,6 +5,7 @@ This project creates high-quality README for the app. The user is able to quickl
 ## Table of Contents
 - [Installations](#Installations)
 - [Usage](#Usage)
+- [Links](#Links)
 - [Preview](#Preview)
 
 ## Installations
@@ -18,10 +19,14 @@ GIVEN a command-line application that accepts user input
 WHEN prompted for information about my application repository
 THEN a professional README.md is generated with a title for the users project, description, table of contents, installation section, usage section, contribute section, tests section, license section, and questions section
 ```
-## Preview
-[Walkthrough video]()
-![screenshot-commandline]()
-![screenshot-readme]()
-[GitHub Respository]()
+## Links 
+### Link to [Walkthrough video]()
+### Link to [GitHub Respository](https://github.com/fiona1nicdao/Homework_09)
 
+## Preview
+### Command line example 
+![screenshot-commandline](./images/command-line.png)
+
+### README example 
+![screenshot-readme](./images/example-readme.png)
 
