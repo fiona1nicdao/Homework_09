@@ -1,5 +1,8 @@
-# Homework_09
-# Title: Professional ReadME Generator
+# Professional ReadME Generator
+## Week 9:NodeJS
+
+![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
+
 ## Description
 This project creates high-quality README for the app. The user is able to quickly create a professional README file by using the command-line application to generate one.
 ## Table of Contents
@@ -13,6 +16,9 @@ The application will be invoked by using the following command:
 ```zsh
 node index.js
 ```
+## Licence 
+ This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+ 
 ## Usage
 ```md
 GIVEN a command-line application that accepts user input 
